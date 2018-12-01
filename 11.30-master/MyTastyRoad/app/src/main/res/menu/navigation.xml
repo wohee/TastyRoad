@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/search"
+        android:title="Search" />
+
+
+    <item
+    android:id="@+id/navigation_mymap"
+    android:icon="@drawable/flag"
+    android:title="My Map" />
+
+    <item
+        android:id="@+id/navigation_memo"
+        android:icon="@drawable/notebook"
+        android:title="Memo" />
+
+    <item
+        android:id="@+id/navigation_profiles"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+
+</menu>
